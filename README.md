@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Almas Seytgaliev
+
+## Front-end developer
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## 🛠 My Tech Stack:
+
+
+
+
+
+
+
+
 
 <!--
 **Diamondooooo/Diamondooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
