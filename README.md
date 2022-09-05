@@ -1,5 +1,13 @@
 ### Hi, I'm Almas Seytgaliev
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diamondooooo&layout=compact)
+
+## There are some links to contact me:
+  
+<a name="telegram" href="https://t.me/diamondooooo"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name="watsapp" href="https://wa.me/79035700059"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
+<a name="gmail" href="mailto:almas.seytgaliev@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
+
 ## Front-end developer
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
