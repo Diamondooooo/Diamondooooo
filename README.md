@@ -1,4 +1,4 @@
-### Hi, I'm Almas Seytgaliev
+### Hi, I'm Almas 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diamondooooo&layout=compact)
 
